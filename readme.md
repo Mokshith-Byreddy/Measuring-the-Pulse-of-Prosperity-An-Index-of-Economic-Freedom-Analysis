@@ -133,22 +133,11 @@ Each row represents one country.
 
 ---
 
-## Future Improvements
-
-* Add multiple year datasets
-* Include HDI comparison
-* Add predictive analysis
-* Create web analytics portal
 
 ---
 
-## Author
 
-B.Tech CSE (AI & ML) Student
-Project Type: Data Analytics / Business Intelligence
 
 ---
 
-## License
 
-This project is for academic and educational purposes only.
