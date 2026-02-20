@@ -94,13 +94,17 @@ Each row represents one country.
 
 ## Visualizations Created
 
-* Economic Freedom Ranking (Bar Chart)
-* Economic Freedom vs GDP (Scatter Plot)
-* World Map Distribution
-* Indicator Comparison Charts
-* Unemployment vs Economic Freedom
-* Regional Comparison
-
+* 2022 Economic freedom score
+* Top 40 ranking countries in the index
+* Bottom ranking countries in the index
+* Index score based on unemployment rate
+* Index score based on financial freedom
+* Index score based on population
+*Index score based on 5 year on GDP growth rate(%)
+*Inflation rate in different countries
+*Correlation between inflation and unemployment
+*Correlation between GDP(PPP) and monetary freedom
+*Top 40 countries by GDP growth rate
 ---
 
 ## Key Findings
