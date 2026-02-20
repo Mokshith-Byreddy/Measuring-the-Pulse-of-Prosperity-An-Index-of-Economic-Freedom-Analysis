@@ -100,11 +100,12 @@ Each row represents one country.
 * Index score based on unemployment rate
 * Index score based on financial freedom
 * Index score based on population
-*Index score based on 5 year on GDP growth rate(%)
-*Inflation rate in different countries
-*Correlation between inflation and unemployment
-*Correlation between GDP(PPP) and monetary freedom
-*Top 40 countries by GDP growth rate
+* Index score based on 5 year on GDP growth rate(%)
+* Inflation rate in different countries
+* Correlation between inflation and unemployment
+* Correlation between GDP(PPP) and monetary freedom
+* Top 40 countries by GDP growth rate
+
 ---
 
 ## Key Findings
