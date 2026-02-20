@@ -24,7 +24,8 @@ The analysis is implemented as an **interactive Tableau Dashboard and Story** th
 https://public.tableau.com/app/profile/lakshmi.supriya.jonnalagadda/viz/MyDashboards_17509586290130/Dashboard1
 
 ---
-##Tableau Story (Step-by-Step Explanation) Link
+## Story Link
+🔗Tableau Story (Step-by-Step Explanation) Link
 https://public.tableau.com/app/profile/lakshmi.supriya.jonnalagadda/viz/MyStory_17509593255230/Story1
 
 
